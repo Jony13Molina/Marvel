@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/menu_top"
+        android:checkableBehavior="none" >
+
+        <item android:id="@+id/book"
+            android:icon="@mipmap/ic_book_128"
+            android:title="Book a Spot" />
+        <item android:id="@+id/list_spot"
+            android:icon="@mipmap/ic_house"
+            android:title="List a Spot" />
+
+        <item android:id="@+id/past_book"
+            android:icon="@mipmap/ic_past_book"
+            android:title="Past Bookings" />
+    </group>
+
+    <group
+        android:id="@+id/menu_center"
+        android:checkableBehavior="none">
+
+        <item android:id="@+id/Payments"
+            android:icon="@mipmap/ic_payment"
+            android:title="Payments" />
+        <item android:id="@+id/Promos"
+            android:icon="@mipmap/ic_promo_128"
+            android:title="Promos" />
+
+        <item android:id="@+id/Wallet"
+            android:title="Wallet"
+            android:icon="@mipmap/ic_wallet"/>
+        <item android:id="@+id/Profile"
+            android:title="My Profile"
+            android:icon="@mipmap/ic_profile"/>
+        <item android:id="@+id/Rating"
+            android:title="Rating"
+            android:icon="@mipmap/ic_rating"/>
+    </group>
+    <group
+        android:id="@+id/menu_bottom"
+        android:checkableBehavior="none">
+
+        <item android:id="@+id/Help"
+            android:icon="@mipmap/ic_help"
+            android:title="Help" />
+        <item android:id="@+id/Legal"
+            android:icon="@mipmap/ic_legal_128"
+            android:title="Legal" />
+
+        <item android:id="@+id/LogOut"
+            android:icon="@mipmap/ic_logout_128"
+            android:title="Logout" />
+    </group>
+
+</menu>

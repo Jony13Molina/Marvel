@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "844477352326",
+    "firebase_url": "https://marvel-53308.firebaseio.com",
+    "project_id": "marvel-53308",
+    "storage_bucket": "marvel-53308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844477352326:android:e83648055c25a0b6",
+        "android_client_info": {
+          "package_name": "com.example.jonny.marvel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844477352326-8jfc4hcnvvn623btc77dt8ro89cocnpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd5-d3HHM6c0M-CZXuceayY-2xMT9N8Sc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
